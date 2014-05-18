@@ -22,3 +22,42 @@
     font-style: normal;
 }
 
+
+body {
+    background: #acd;
+}
+
+h1 {
+    font-size: 300px;
+    margin-left: 250px;
+    font-family: Indento-Bold;
+}
+
+h3 {
+    margin-left: 250px;
+    font-family: Indento-Bold;
+}
+
+h4 {
+    margin-top: -25px;
+    margin-left: 370px;
+    font-family: Indento-Bold;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+font-family: 'Indento-Bold';
+src: url('../assets/Indento-Bold.otf');
+}
+
+
